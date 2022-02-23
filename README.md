@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[YouTube](https://www.youtube.com/channel/UCYB18Gx6TWH5a_aFcaOkH4Q)
+
 <!--
 **alamb0/alamb0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
